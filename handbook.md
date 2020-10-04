@@ -5,15 +5,15 @@
 6 am to 3 pm GMT (for students in Europe and Africa)
 - **Online Live Class**: 7.30 am to 9.00 am
 - **Break**: 9.00 am to 9.30 am
-- **Online Live Class**: 9.30 am to 9.00 am
-- **Daily Challenge**: 10.30 am to 11.15 am
-- **Daily Challenge review**: 11.15 am to 12.00 pm
-- **Coursework (Coding practice)**: 12.00 pm to 3.00 pm
+- **Online Live Class**: 9.30 am to 11.30 am
+- **Daily Challenge**: 11.30 am to 12.15 pm
+- **Daily Challenge review**: 12.15 pm to 1.00 pm
+- **Coursework (Coding practice)**: 1.00 pm to 3.00 pm
  
 
 ### For Asian Timezone students
-11 am to 8 pm Singapore time (SGT)
-- **Daily Challenge**: 11.00 am to 9.15 am
+8.30 am to 5 pm Indian Standard time (IST)
+- **Daily Challenge**: 8.30 am to 9.15 am
 - **Daily Challenge review**: 9.15 am to 10.00 am
 - **Coursework (Coding practice)**: 10.00 am to 11.00 am
 - **Break**: 11.00 am to 11.30 am
