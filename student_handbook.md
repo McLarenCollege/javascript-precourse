@@ -3,16 +3,18 @@
 ## Typical Day at McLaren College
 ### For Europe and African Timezone students
 6 am to 3 pm GMT (for students in Europe and Africa)
-- **Online Live Class**: 7.30 am to 9.00 am GMT
-- **Break**: 9.00 am to 9.30 am GMT
-- **Online Live Class**: 9.30 am to 11.30 am GMT
-- **Daily Challenge**: 11.30 am to 12.15 pm GMT
-- **Daily Challenge review**: 12.15 pm to 1.00 pm GMT
+- **Online Live Class**: 6.00 am to 7.30 am GMT
+- **Break**: 7.30 am to 8.00 am GMT
+- **Online Live Class**: 8.00 am to 10.00 am GMT
+- **Break**: 10.00 am to 10.15 am GMT
+- **Coursework (Coding practice)**: 10.15 am to 11.45 am GMT
+- **Daily Challenge**: 11.45 am to 12.30 pm GMT
+- **Daily Challenge review**: 12.30 pm to 1.00 pm GMT
 - **Coursework (Coding practice)**: 1.00 pm to 3.00 pm GMT
  
 
 ### For Asian Timezone students
-8.30 am to 5 pm Indian Standard time (IST)
+8.30 am to 5.15 pm Indian Standard time (IST)
 - **Daily Challenge**: 8.30 am to 9.15 am IST
 - **Daily Challenge review**: 9.15 am to 10.00 am IST
 - **Coursework (Coding practice)**: 10.00 am to 11.00 am IST
@@ -20,7 +22,8 @@
 - **Online Live Class**: 11.30 am to 1.00 pm IST
 - **Lunch**: 1.00 pm to 1.30 pm IST
 - **Online Live Class**: 1.30 pm to 3.30 pm IST
-- **Coursework (Coding practice)**: 3.30 pm to 5.00 pm IST
+- **Break**: 3.30 pm to 3.45 pm IST
+- **Coursework (Coding practice)**: 3.45 pm to 5.15 pm IST
 
 
 ### General Rules
