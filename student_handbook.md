@@ -67,3 +67,6 @@ It's fine to use Stack Overflow or Google to find out how to do things *which ar
 We expect that the workload for the average student will be around 52 hours per week.  If you are falling behind in your 
 assignments you will need to spend extra time on the weekend to catch up.
  
+## Frequently Asked Questions
+#### Do you hire graduates as teaching assistants?
+We want to avoid hiring our own graduates as TAs.  The reason is that we need to know whether our business model works - that is, whether future students who graduate can earn income on Upwork and will pay what is owed to us.  If we hired our own graduates as TAs they wouldn't be seen as a 'success' - which would make it harder for us to plan details of future courses and attract students and staff.
