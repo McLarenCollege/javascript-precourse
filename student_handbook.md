@@ -27,12 +27,12 @@
 
 ### General Rules
 - We expect you to be present online for 9 hours as per your timezone, Monday to Friday
+- We expect you to turn your video camera on when online
 - We will declare holiday breaks in advance after consultation with all students  
 - You may take 1 day's leave per month with 24 hours notice
 - If you are absent you will have to spend extra time outside of class hours to make up for missed coursework
 - You must have a good internet connect and fast computer with good audio and video capability 
 - We may drop you from the course at any time if we find your attendance or work unsatisfactory, or if your behaviour is unprofessional
-
 
 ### Assignment Deadlines
 Assignments are due on the day you receive them at 11:59 pm GMT (for students in Europe or Africa) or 9:00 pm IST (for students in Asia).  If we find your submission unacceptable (usually below a grade of 70%) we will give you a catch-up assigment due on the weekend.  All assignments must be graded 'complete' by 5:00 pm IST on the third day after it is published. 
